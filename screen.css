@@ -1,0 +1,36 @@
+body { font-family: Cooper helvetica verdana; background: #66CCFF; padding: 0px;
+}
+
+.body{ font-family: Cooper helvetica verdana; padding: 0px; margin: 0px;}
+.boxes{border:1px solid #66CCFF; text-decoration: none; margin: 0px 0px 0px 0px; padding: 0px;}
+a .boxes:hover{border:1px solid #F2F2F2}
+
+#content {
+width: 900px;
+margin-left: -415px;	
+position: absolute;	
+left: 50%;
+margin-top: 20px;
+}
+
+a{ text-decoration: none;}
+#text { width: 425px; height: 350px; padding: 0px; margin: 0px 0px 0px 0px; float: left;}
+
+h2{color: #F2F2F2; font: Georgia;}
+h3{color: #F2F2F2; font: Georgia; padding: 0px 0px 4px 0px; margin: 0px;}
+a h3:hover{color: #D6D9C5; padding: 0px 0px 4px 0px; margin: 0px;}
+p{text-align: left; color: #F2F2F2; font: Georgia; font-size: 14px; margin: 0px 0px 10px 0px; padding: 0px;}
+a {color: #F2F2F2; font: Georgia; font-size: 14px; margin: 0px; padding: 0px;}
+a:hover {color: #D6D9C5; font: Georgia; font-size: 14px; margin: 0px; padding: 0px;}
+
+#column1{float: left; width: 180px;}
+#column2{float: right; width: 180px;}
+
+#textBoxes{height: 670px;}
+
+#tumblr{text-decoration:none; text-align: left; width: 400px; margin: 0px 0px 0px -37px; padding: 0px;}
+#tumblr li{text-decoration:none;color: 66CCFF;}
+#tumblr img{width:400px; padding: 0px; margin: 0px;}
+
+#bottomColumnLeft{width: 425px;}
+#bottomColumnRight{float:right; width: 425px; margin: 0px 35px 0px 0px;}
